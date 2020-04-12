@@ -1,2 +1,2 @@
-# Desgn-thinking
+# Design-thinking
 Explore the design thinking
